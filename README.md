@@ -1,33 +1,33 @@
 # Project Title
 
-One Paragraph of project description goes here.
+Print_person_info
+this will print each person Information
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
-
+These instructions will run on your local machine for running the code and printing people information.
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+Print_Person_info requires Python to run, The commands below will Show you how to download python and run the code.
 
 ```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
+you can download python version 3.1.4 from https://www.python.org/downloads/
+
 ```
 
 ## Running
 Once installed you can run the program with the following command
 
 ```
-python cna_demo.py
+python Print_person_info.py
 ```
 
 Add any additional ways to run the program below
 
 ```
-python cna_demo.py test.txt
+python Print_person_info.py test.txt
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+the information on how to download python was taken from the following url
+https://tutorialdeep.com/python/install-python-windows/
