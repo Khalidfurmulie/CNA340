@@ -1,6 +1,6 @@
 # Project Title
 
-Print_person_info
+Print_person_info  
 this will print each person Information
 
 ## Getting Started
